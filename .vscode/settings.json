@@ -1,0 +1,34 @@
+{
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "[yaml]": {
+        "editor.tabSize": 4
+    },
+    "files.associations": {
+        "*.latex": "latex",
+        "*.mermaid": "mermaid"
+    },
+    "markdown-preview-enhanced.latexEngine": "pdflatex",
+    "markdown-preview-enhanced.pandocMarkdownFlavor": "markdown",
+    "redhat.telemetry.enabled": false,
+    "yaml.extension.recommendations": false,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "ltex.completionEnabled": true,
+    "markdown-preview-enhanced.mathRenderingOnlineService": "https://latex.codecogs.com/svg.latex",
+    "markdown-preview-enhanced.mathRenderingOption": "MathJax",
+    "markdown-preview-enhanced.usePandocParser": true,
+    "markyMarkdown.statsShowReadingTime": true,
+    "markyMarkdown.statsShowWords": true,
+    "markyMarkdown.statsShowLines": false,
+    "markyMarkdown.statsShowCharacters": false,
+    "yaml.schemaStore.enable": false,
+    "debug.onTaskErrors": "abort",
+    "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
+    "markdown-mermaid.languages": [
+        "mermaid"
+    ]
+}

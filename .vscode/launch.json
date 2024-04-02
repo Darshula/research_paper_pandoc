@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Generate PDF",
+            "type": "node-terminal",
+            "request": "launch",
+            "preLaunchTask": "pdf",
+            "command": "code.cmd -r ${workspaceFolder}/build/paper.pdf"
+        },
+        {
+            "name": "Generate ZIP",
+            "type": "node-terminal",
+            "request": "launch",
+            "preLaunchTask": "publish",
+            "command": "code.cmd -r ${workspaceFolder}/build/paper.pdf"
+        },
+        {
+            "name": "Clean Build Directory",
+            "type": "node-terminal",
+            "request": "launch",
+            "preLaunchTask": "clean",
+        }
+    ]
+}

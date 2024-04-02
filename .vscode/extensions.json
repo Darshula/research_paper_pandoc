@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "valentjn.vscode-ltex",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "bierner.markdown-mermaid",
+        "robole.marky-stats",
+        "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+        "sndst00m.vscode-native-svg-preview",
+        "foxundermoon.shell-format",
+        "oijaz.unicode-latex",
+        "tomoki1207.pdf",
+        "redhat.vscode-yaml"
+    ]
+}

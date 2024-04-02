@@ -1,0 +1,25 @@
+---
+title: Template for Scientific Articles using Pandoc
+author:
+    name: [Author 1, Author 2]
+    guide: Project Guide
+institution: Some Department, University of Example
+emails:
+    email: [author1, author2, project_guide]
+    domain: example.uni.edu
+date: \today
+keywords:
+    - pandoc
+    - markdown
+    - template
+numbersections: yes
+link-citations: yes
+lang: en
+babel-lang: english
+biblio-style: IEEETran
+abstract: |
+    This is the abstract.
+
+    It can have multiple paragraphs.
+
+---
